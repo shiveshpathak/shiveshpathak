@@ -1,9 +1,8 @@
 # Hello! 👋👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shiveshpathak&label=Profile%20views&color=0e75b6&style=flat" alt="shiveshpathak" /> </p>
 
 I am _Shivesh Chand Pathak_. I worked remotely as a **Java Backend Developer** 🚀 for a US-based tech startup. I'm highly skilled with **DSA/Core Java/Spring Boot** 💻 and all its associated runtimes. Currently, I am preparing for full-stack and looking for a new role. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a huge _Productivity nerd_ who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.
-
-### 🌟 Technologies I've worked with: 
-<img align="right" alt="Coding" width="350" hight="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</br>
+### 🌟 Technologies I've worked with: <img align="right" alt="Coding" width="350" hight="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
 
 - Spring Boot
 - Core Java
