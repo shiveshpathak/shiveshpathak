@@ -23,7 +23,7 @@ I am _Shivesh Chand Pathak_. I worked remotely as a **Java Backend Developer** ð
 
 <h3 align="left">Connect with me:</h3>
 
-- [LinkedIn](www.linkedin.com/in/shivesh-chand-pathak-09bb90193/)
+- [LinkedIn](https://www.linkedin.com/in/shivesh-chand-pathak-09bb90193/)
 - [Intagram](https://www.instagram.com/shivesh_pathak_05/)
 
 <h3 align="left">Languages and Tools:</h3>
