@@ -14,8 +14,12 @@ I am _Shivesh Chand Pathak_. I worked remotely as a **Java Backend Developer** �
 - Twilio
 - Confluence
   
-<img src="https://img.shields.io/twitter/follow/your_username?style=for-the-badge&logo=twitter" />
-### 📫 How to reach me?
+<p align="left">
+  <a href="https://twitter.com/your_username" target="blank">
+    <img src="https://img.shields.io/badge/Follow-%40your_username-1DA1F2?style=for-the-badge&logo=twitter" alt="twitter" />
+  </a>
+  
+</p>### 📫 How to reach me?
 -  **shivesh.sp31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
