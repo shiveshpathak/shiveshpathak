@@ -16,7 +16,7 @@ I am _Shivesh Chand Pathak_. I worked remotely as a **Java Backend Developer** �
   
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
   
-</p>### 📫 How to reach me? 
+</p>### 📫 How to reach me? </p>
 -  **shivesh.sp31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
